@@ -1,0 +1,5 @@
+#name,mac-address,ip
+my-macbookpro,10:9a:dd:5b:e1:0c,192.168.1.60
+#
+dhcp-server,00:1a:4d:0f:c0:c0,192.168.1.153
+#
